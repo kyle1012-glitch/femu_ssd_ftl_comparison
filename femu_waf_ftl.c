@@ -1,4 +1,4 @@
-#Jira connecting test1 03_17
+#Jira connecting test2 03_17
 #include "ftl.h"
 #if 1 //jywaf
 volatile bool show_blkstat;
